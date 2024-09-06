@@ -1,0 +1,6 @@
+{
+    "technologies": ["JavaScript", "Python", "Java", "Swift", "React", "Angular", "Vue", "Nodejs", "TensorFlow"],
+    "foods": ["Pizza", "Sushi", "Pasta", "Burger", "Tacos", "Curry", "Biryani", "Pho", "Falafel", "Sushi"],
+    "countries": ["Egypt", "France", "Germany", "Japan", "China", "India", "Australia"],
+    "celebrities": ["Leonardo DiCaprio", "Meryl Streep", "Tom Hanks", "Angelina Jolie", "Robert Downey Jr", "Scarlett Johansson", "Dwayne Johnson", "Brad Pitt"]
+}
